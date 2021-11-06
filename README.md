@@ -10,4 +10,4 @@ My specific interests vary over time, but at present I seem to be focussing most
 - Email: `silver [at] silv [dot] re`
 - Discord: `squirl#0047`
 
-<small>You might also know me as <a href="https://vktec.org.uk/">vktec</a></small>
+<sub>You might also know me as <a href="https://vktec.org.uk/">vktec</a></sub>
