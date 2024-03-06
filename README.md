@@ -8,4 +8,4 @@ My specific interests vary over time, but at present I seem to be focusing mostl
 ### Contact me
 
 - Email: `silver [at] squirl [dot] dev`
-- Discord: `squirl#0047`
+- Discord: `silversquirl`
